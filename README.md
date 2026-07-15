@@ -1,5 +1,12 @@
 # Rvvel Affiliate Links MCP Server
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/rvvel-affiliate-links-mcp?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/rvvel-affiliate-links-mcp?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/rvvel-affiliate-links-mcp?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-1.0.0-blue?style=flat-square)](https://www.npmjs.com/package/rvvel-affiliate-links-mcp)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 Central hub for managing affiliate links across all Rvvel applications and AI agents. One source of truth for the entire ecosystem.
 
 ## Overview
